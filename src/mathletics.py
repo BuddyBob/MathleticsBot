@@ -139,6 +139,7 @@ import sys
 try:
     sys.exit(  )              # see also: os._exit, Tk(  ).quit(  )
 except SystemExit:
+    driver.quit()
     duration = str(duration).split(':')
     print(duration)
     print('hours: '+str(duration[0]))
