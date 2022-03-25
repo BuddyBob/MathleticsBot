@@ -5,8 +5,9 @@ Run this for hours and suprise your teachers!
 
 ## Prerequisets
   <pre>
-    * Chrome Driver [<a href="https://sites.google.com/a/chromium.org/chromedriver/">Link</a>] placed in the correct folder (downloads)
+    * Get Updated Version of Chrome Driver [<a href="https://sites.google.com/chromium.org/driver/">Link</a>] 
     * Selenium python module - $ pip3 install selenium
+    * Selenium webdriver manager - $ pip3 install webdriver-manager
   </pre>
 ## How to run
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Edit config file**
@@ -33,7 +34,7 @@ Run this for hours and suprise your teachers!
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - *Selenium*: Button or Text not loaded in time
   
 ## Remember to
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; || Keep the google chrome browswer open at all times ||
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; || Keep the google chrome browser open at all times ||
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; || Do not share this code with others before removing your information from the config file ||
   
